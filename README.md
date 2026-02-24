@@ -11,6 +11,7 @@
 ![Symfony](https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-000?logo=react&logoColor=white)
 
 ---
 
@@ -18,7 +19,7 @@
 
 - 🧠 **Valorant AI Coach** — dashboard + analyses + IA
 - 😈 **Warzone cheaters detector** — dashboard + analyses
-- 🍸 Tchinz — app iOS/Android (React + SwiftData + iCloud)
+- 🍸 Tchinz — app iOS/Android (React Native + UI kit + Firebase)
 - 📦 **Okaou** — app iOS (SwiftUI + SwiftData + iCloud)
 - 🧩 **Boilerplate Symfony/React** — auth, admin, etc.
 
