@@ -16,9 +16,10 @@
 
 ## Current projects
 
-- 🧠 **Coach IA Valorant** — dashboard + analyses
-- 😈 **Détecteur de cheaters** — dashboard + analyses
-- 🚀 **Okaou** — app iOS (SwiftUI + SwiftData + iCloud)
+- 🧠 **Valorant AI Coach** — dashboard + analyses + IA
+- 😈 **Warzone cheaters detector** — dashboard + analyses
+- 🍸 Tchinz — app iOS/Android (React + SwiftData + iCloud)
+- 📦 **Okaou** — app iOS (SwiftUI + SwiftData + iCloud)
 - 🧩 **Boilerplate Symfony/React** — auth, admin, etc.
 
 ---
