@@ -10,15 +10,14 @@
 ![PHP](https://img.shields.io/badge/PHP-000?logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-000?logo=swift&logoColor=white)
 
 ---
 
 ## Current projects
 
-- 🚀 **Okaou** — app iOS (SwiftUI + SwiftData + iCloud)
 - 🧠 **Coach IA Valorant** — dashboard + analyses
+- 😈 **Détecteur de cheaters** — dashboard + analyses
+- 🚀 **Okaou** — app iOS (SwiftUI + SwiftData + iCloud)
 - 🧩 **Boilerplate Symfony/React** — auth, admin, etc.
 
 ---
