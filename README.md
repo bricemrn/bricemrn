@@ -1,7 +1,7 @@
 # Hi, I'm Brice 👋
 
-📍 France • Web dev (Symfony / React) • iOS (SwiftUI) • Builder  
-🔗 Site: https://www.briceiscoding.fr • LinkedIn: <ton-lien> • YouTube: <ton-lien>
+📍 France • Web dev (PHP / Symfony / JS / React) • Web & Mobile Apps Builder • Indie Hacker  
+🔗 Site: https://www.briceiscoding.fr • YouTube: https://www.youtube.com/@briceiscoding
 
 ---
 
@@ -9,6 +9,7 @@
 
 ![PHP](https://img.shields.io/badge/PHP-000?logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)
 
 ---
