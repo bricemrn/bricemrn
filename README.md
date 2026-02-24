@@ -25,4 +25,5 @@
 
 ## Stats (optional)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&hide_title=true)
+<img width="737" height="122" alt="screenshot_github_activity" src="https://github.com/user-attachments/assets/70c49e1f-6928-4900-bd12-6c78ef9c4b94" />
+
