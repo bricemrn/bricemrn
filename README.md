@@ -25,6 +25,7 @@
 - 🍸 Tchinz — app iOS/Android (React Native + UI kit + Firebase)
 - 📦 **Okaou** — app iOS (SwiftUI + SwiftData + iCloud)
 - 🧩 **Boilerplate Symfony/React** — auth, admin, etc.
+- 🏡 **Leadimo** — Data-driven real estate analysis
 
 ---
 
