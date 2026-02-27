@@ -1,6 +1,6 @@
 # Hi, I'm Brice 👋
 
-🥖 France • Web dev (PHP / Symfony / JavaScript / React) • Web & Mobile Apps Builder • Indie Maker
+🥖 France • Web dev (PHP / Symfony / JavaScript / React) • Web & Mobile Apps Builder • Indie Maker building experimental projects and documenting it on :
 🔗 Website: https://www.briceiscoding.fr • YouTube: https://www.youtube.com/@briceiscoding
 
 ---
