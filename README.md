@@ -12,6 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-000?logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
 
 ---
 
