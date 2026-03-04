@@ -9,11 +9,12 @@
 
 ## Tech stack
 
-![PHP](https://img.shields.io/badge/PHP-000?logo=php&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-000?logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-000?logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000?logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
 
 ---
