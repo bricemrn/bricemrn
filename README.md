@@ -2,7 +2,7 @@
 
 🥖 French Dev, Indie Maker <br>
 🔥 Main stack: React / JavaScript / TypeScript / Node / Symfony / PHP <br>
-🚀 Web & Mobile Apps • Building experimental projects and documenting it on my <br>
+🚀 Web & Mobile Apps • Building experimental projects and documenting it <br>
 🔗 Website: https://www.briceiscoding.fr <br>
 🔴 YouTube channel: https://www.youtube.com/@briceiscoding
 
