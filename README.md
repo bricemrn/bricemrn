@@ -3,7 +3,6 @@
 🥖 French Dev, Indie Maker <br>
 🔥 Main stack: React / JavaScript / TypeScript / Node / Symfony / PHP <br>
 🚀 Web & Mobile Apps • Building experimental projects and documenting it <br>
-🔗 Website: https://www.briceiscoding.fr <br>
 🔴 YouTube channel: https://www.youtube.com/@briceiscoding
 
 ---
@@ -22,12 +21,14 @@
 
 ## Current projects
 
-- 🧠 **Valorant AI Coach** — dashboard + analyses + IA
-- 😈 **Warzone cheaters detector** — dashboard + analyses
-- 🍸 Tchinz — app iOS/Android (React Native + UI kit + Firebase)
-- 📦 **Okaou** — app iOS (SwiftUI + SwiftData + iCloud)
-- 🧩 **Boilerplate Symfony/React** — auth, admin, etc.
-- 🏡 **Leadimo** — Data-driven real estate analysis
+- **Flappy Bird Invincible** — Genetic algorithm
+- **Minecraft Voxelizer** — 3D build from picture
+- **Valorant AI Coach** — dashboard + analyses
+- **Warzone cheaters detector** — dashboard + analyses
+- Tchinz — app iOS/Android (React Native + UI kit + Firebase)
+- **Okaou** — app iOS (SwiftUI + SwiftData + iCloud)
+- **Boilerplate Symfony/React** — auth, admin, etc.
+- **Leadimo** — Data-driven real estate analysis
 
 ---
 
