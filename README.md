@@ -1,7 +1,7 @@
 # Hi, I'm Brice 👋
 
 🥖 French Dev, Indie Maker <br>
-🔥 Main stack: React / JavaScript / TypeScript / Node / Symfony / PHP <br>
+🔥 Stack: React / JavaScript / TypeScript / Node / Symfony / PHP / Python <br>
 🚀 Web & Mobile Apps • Building experimental projects and documenting it <br>
 🔴 YouTube channel: https://www.youtube.com/@briceiscoding
 
