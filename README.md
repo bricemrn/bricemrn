@@ -21,13 +21,13 @@
 
 ## Current projects
 
-- **Tubelify React/Next** — Youtube analyzer, etc.
+- **Tubelify** — Youtube analyzer, etc.
 - **Flappy Bird Invincible** — Genetic algorithm
 - **Minecraft Voxelizer** — 3D build from picture
 - **Valorant AI Coach** — dashboard + analyses
 - **Warzone cheaters detector** — dashboard + analyses
-- **Tchinz** — app iOS/Android (React Native + UI kit + Firebase)
-- **Okaou** — app iOS (SwiftUI + SwiftData + iCloud)
+- **Tchinz** — app iOS/Android
+- **Okaou** — app iOS
 - **Leadimo** — Data-driven real estate analysis
 
 ---
