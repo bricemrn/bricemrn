@@ -21,7 +21,7 @@
 
 ## Current projects
 
-- **Tubelify** — Youtube analyzer, etc.
+- **Tubelify** — YouTube analyzer dashboard
 - **Flappy Bird Invincible** — Genetic algorithm
 - **Minecraft Voxelizer** — 3D build from picture
 - **Valorant AI Coach** — dashboard + analyses
