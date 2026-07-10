@@ -1,6 +1,6 @@
 # Hi, I'm Brice 👋
 
-🥖 French Dev, Indie Maker <br>
+🥖 French Dev, Indie Maker, Solopreneur <br>
 🔥 Stack: React / JavaScript / TypeScript / Node / Symfony / PHP / Python <br>
 🚀 Web & Mobile Apps • Building experimental projects and documenting it <br>
 🔴 YouTube channel: https://www.youtube.com/@briceiscoding
@@ -21,6 +21,7 @@
 
 ## Current projects
 
+- **Warzone cheaters detector V2 — dashboard + analysis
 - **Tubelify** — YouTube analyzer dashboard
 - **Flappy Bird Invincible** — Genetic algorithm
 - **Minecraft Voxelizer** — 3D build from picture
