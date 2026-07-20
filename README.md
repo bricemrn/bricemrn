@@ -21,7 +21,7 @@
 
 ## Current projects
 
-- **Warzone cheaters detector V2 — dashboard + analyzes
+- **Please Don't Cheat** — Warzone cheaters detector V2
 - **Tubelify** — YouTube analyzer dashboard
 - **Flappy Bird Invincible** — Genetic algorithm
 - **Minecraft Voxelizer** — 3D build from picture
