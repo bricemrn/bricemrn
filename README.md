@@ -21,6 +21,7 @@
 
 ## Current projects
 
+- **TrendShort** — Analyze the videos going viral
 - **Please Don't Cheat** — Warzone cheaters detector V2
 - **Tubelify** — YouTube analyzer dashboard
 - **Flappy Bird Invincible** — Genetic algorithm
