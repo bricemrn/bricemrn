@@ -13,7 +13,7 @@
 
 ## Tech stack
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" alt="React">
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000" alt="React Native">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
