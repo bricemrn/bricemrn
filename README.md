@@ -11,7 +11,17 @@
 
 ## Tech stack
 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff) ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+## Tech stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000" alt="React">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=000" alt="React Native">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff" alt="PHP">
+  <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=fff" alt="Symfony">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python">
+</p>
 
 ---
 
