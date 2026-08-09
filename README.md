@@ -14,6 +14,7 @@
 
 ## Current projects
 
+- **Woofit** — **Woofit turns dog walks into a fun game with goals, rewards, and progress
 - **TrendShort** — Analyze the videos going viral
 - **Please Don't Cheat** — Warzone cheaters detector V2
 - **Tubelify** — YouTube analyzer dashboard
