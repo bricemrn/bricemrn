@@ -14,6 +14,7 @@
 
 ## Current projects
 
+- **WeBumpIt** — Local businesses without a website, found and tracked 
 - **Woofit** — Turns dog walks into a fun game with goals, rewards, and progress
 - **TrendShort** — Analyze the videos going viral
 - **Please Don't Cheat** — Warzone cheaters detector V2
