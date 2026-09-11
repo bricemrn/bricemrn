@@ -1,8 +1,8 @@
 # Hi, I'm Brice 👋
 
 🥖 French Dev, Indie Maker & Content Creator <br>
-🚀 I test a ton of stuff with AI, building apps in public, and I document it <br>
-🔴 YouTube channel: https://www.youtube.com/@briceiscoding
+🔥 I test a ton of stuff with AI, building apps in public, and I document it <br>
+👉 YouTube channel: https://www.youtube.com/@briceiscoding
 
 ---
 
