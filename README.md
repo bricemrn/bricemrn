@@ -33,3 +33,15 @@
 
 <img width="737" height="122" alt="screenshot_github_activity" src="https://github.com/user-attachments/assets/70c49e1f-6928-4900-bd12-6c78ef9c4b94" />
 
+
+---
+
+## Achievements
+
+<p align="left">
+  <a href="https://github.com/bricemrn?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="64" height="64" alt="Pair Extraordinaire" title="Pair Extraordinaire" /></a>
+  <a href="https://github.com/bricemrn?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="64" height="64" alt="Quickdraw" title="Quickdraw" /></a>
+  <a href="https://github.com/bricemrn?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" width="64" height="64" alt="Pull Shark x3" title="Pull Shark x3" /></a>
+  <a href="https://github.com/bricemrn?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="64" height="64" alt="YOLO" title="YOLO" /></a>
+  <a href="https://github.com/bricemrn?tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="64" height="64" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor" /></a>
+</p>
